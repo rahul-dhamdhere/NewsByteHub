@@ -1,0 +1,21 @@
+*{
+  background-color: red;
+  padding: 0;
+  margin: 0;
+}
+#scrll {
+  height: 100vh;              /* Full viewport height */
+  width: 100vw;               /* Full viewport width */
+  overflow-y: auto;           /* Enable vertical scrolling */
+  scroll-snap-type: y mandatory;  /* Enable snap scrolling */
+  scrollbar-width: none;      /* Hide scrollbar */
+
+}
+
+#scrll::-webkit-scrollbar {
+  display: none;              /* Hide scrollbar in webkit */
+}
+#container{
+    margin: 0;
+    scroll-snap-align: start;
+}

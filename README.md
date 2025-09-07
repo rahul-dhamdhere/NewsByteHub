@@ -5,7 +5,7 @@ platform** inspired by apps like *Inshorts*.\
 It fetches news from public APIs, processes and summarizes articles
 using **n8n workflows with AI models**, and displays them in a **fast
 and responsive React frontend**.
-
+Demo link:- https://newsbytehub.netlify.app/
 ------------------------------------------------------------------------
 
 ## 🚀 Features

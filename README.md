@@ -14,7 +14,7 @@ Demo link:- https://newsbytehub.netlify.app/
     snippets using AI (Ollama/OpenAI via n8n).\
 -   **Backend API** -- Node.js + Express backend that serves summarized
     news to the frontend.\
--   **Database Integration** -- Supports MySQL/PostgreSQL/MongoDB for
+-   **Database Integration** -- Supports MySQL for
     storing fetched news and summaries.\
 -   **Frontend UI** -- Built with React + Vite, optimized for mobile and
     desktop.\

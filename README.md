@@ -57,13 +57,12 @@ Demo link:- https://newsbytehub.netlify.app/
 
 ## 🛠️ Tech Stack
 
--   **Frontend:** React, Vite, TailwindCSS (for UI styling)\
+-   **Frontend:** React, Vite
 -   **Backend:** Node.js, Express.js\
--   **Automation & Summarization:** [n8n](https://n8n.io/) (local or
-    cloud)\
--   **Database:** MySQL / PostgreSQL / MongoDB\
--   **AI Models:** Ollama, OpenAI, or any LLM supported by n8n\
--   **Hosting (Optional):** Railway / Render / Vercel / Netlify
+-   **Automation & Summarization:** [n8n](https://n8n.io/) (local)
+-   **Database:** MySQL 
+-   **AI Models:**  qwen3:0.6b(Ollama)
+-   **Hosting (Optional):** Netlify
 
 ------------------------------------------------------------------------
 ![N8N Diagram](./public/N8N.png)

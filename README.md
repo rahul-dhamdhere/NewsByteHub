@@ -1,25 +1,25 @@
 # 📰 NewsByteHub
 
 NewsByteHub is a modern **AI-powered news summarization and aggregation
-platform** inspired by apps like *Inshorts*.\
+platform** inspired by apps like *Inshorts*.
 It fetches news from public APIs, processes and summarizes articles
 using **n8n workflows with AI models**, and displays them in a **fast
-and responsive React frontend**.\
+and responsive React frontend**.
 Demo link:- https://newsbytehub.netlify.app/
 ------------------------------------------------------------------------
 
 ## 🚀 Features
 
 -   **Automated Summarization** -- News is shortened into easy-to-read
-    snippets using AI (Ollama/OpenAI via n8n).\
+    snippets using AI (Ollama/OpenAI via n8n).
 -   **Backend API** -- Node.js + Express backend that serves summarized
-    news to the frontend.\
+    news to the frontend.
 -   **Database Integration** -- Supports MySQL for
-    storing fetched news and summaries.\
+    storing fetched news and summaries.
 -   **Frontend UI** -- Built with React + Vite, optimized for mobile and
-    desktop.\
+    desktop.
 -   **Extensible Workflows** -- New APIs, categories, and custom
-    automations can be added via n8n without changing backend code.\
+    automations can be added via n8n without changing backend code.
 -   **Conflict Handling** -- Automatically skips duplicate entries in
     the database.
 

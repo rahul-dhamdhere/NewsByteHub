@@ -58,7 +58,7 @@ Demo link:- https://newsbytehub.netlify.app/
 ## 🛠️ Tech Stack
 
 -   **Frontend:** React, Vite
--   **Backend:** Node.js, Express.js\
+-   **Backend:** Node.js, Express.js
 -   **Automation & Summarization:** [n8n](https://n8n.io/) (local)
 -   **Database:** MySQL 
 -   **AI Models:**  qwen3:0.6b(Ollama)
